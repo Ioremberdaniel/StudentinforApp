@@ -27,7 +27,7 @@ This is a simple Android application written in Kotlin that displays a digital b
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Hamza1610/software-eng-app.git
+   git clone https://github.com/Ioremberdaniel/EngrDan.git
    cd software-eng-app
    ```
 
@@ -56,4 +56,5 @@ The app should build and launch showing the business card screen with your detai
   - `email_address`
 
 No code changes are required for basic text updates.
+
 
